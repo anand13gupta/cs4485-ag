@@ -1,0 +1,2 @@
+This is a public repository for CS4485 UTDallas capstone project course for 2024-Fall semester. The objective is to build a general purpose Data Platform that can be used for any Industry.
+The target is to use for 5G Data Analytics. We do have challenge in getting the data, but we expect to overcome them by doing our own data generation. Failing that we might use some other example dataset to demonstrate the capabilities of our data platform.
